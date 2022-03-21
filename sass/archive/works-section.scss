@@ -1,0 +1,81 @@
+/* works section */
+
+.work-card {
+    width: auto;
+    height: auto;
+    min-height: 300px;
+    padding-bottom: 5rem;
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: rgba(255,255,255,.1);
+    border-width: .25rem;
+    position: relative;
+    max-width: 55rem;
+    margin: 5rem auto;
+  }
+  
+  .work-card button {
+    background: var(--background);
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: rgba(255,255,255,.1);
+    border-width: .25rem;
+    position: absolute;
+    right: 1.5rem;
+    bottom: 2rem;
+    text-transform: uppercase;
+  }
+  
+  .work-card button:hover {
+    cursor:default;
+    background-color: white;
+    color: var(--background);
+    transition: 0.4s;
+  }
+  
+  .work-card h2 {
+    position: absolute;
+    right: 2.5rem;
+    top: .5rem;
+    text-align: right;
+  
+  }
+  
+  .work-card p {
+    position: absolute;
+    right: 2.5rem;
+    top: 5rem;
+    text-align: right;
+    max-width: 500px;
+  }
+  
+  .work-card figure {
+    height: 225px;
+    width: 225px;
+    position: relative;
+    margin-top: 2.5rem;
+    margin-left: 4rem;
+  }
+  
+  .work-card img {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%)
+  }
+  
+  /* .work-card img {
+    position: absolute;
+    top: 2rem;
+    left: 2.5rem;
+    height: 225px;
+  }
+  
+  .work-card:nth-of-type(4) img {
+    padding-top: 2rem;
+    width: 225px;
+  } */

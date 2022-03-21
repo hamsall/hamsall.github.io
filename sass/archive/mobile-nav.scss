@@ -1,0 +1,91 @@
+.mobile-nav {
+    width: 100vw;
+    display: none;
+    align-items: center;
+    justify-content: flex-end;
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 1em;
+    background-image: var(--fade-b-to-w);
+    z-index: 2;
+  }
+  /*needs to be displayed after myButton toggle*/
+  .mobile-menu-container > .mobile-nav {
+    display: flex;
+    position: absolute;
+    height: 50px;
+    bottom: 0;
+    margin-bottom: 20px;
+    padding: 0;
+    background: none
+  }
+  
+  .mobile-nav button {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none
+  }
+  
+  .mobile-nav button > * {
+    margin: 0 .5em;
+  }
+  
+  .mobile-nav div{
+    height: 50px;
+    width: 50px;
+    background-image: url(./assets/sh-logo-400x400.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .mobile-menu-container > .mobile-nav div {
+    background-image: url(./assets/sh-close-thin.svg)
+  }
+  
+  .mobile-menu-container {
+    display: none;
+    background: white;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    animation: toptobot .75s cubic-bezier(0.2,0,0.2,1)
+  }
+  
+  .mobile-menu {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+  }
+  
+  .mobile-menu ul {
+    padding: 0;
+  }
+  .mobile-menu li {
+    text-align: center;
+    margin: 3em 0;
+  }
+  
+  .mobile-menu, .mobile-menu-container > .mobile-nav {
+    opacity: 0;
+    animation: appear .75s cubic-bezier(0.2,0,0.2,1) .5s forwards
+  }
+  .mobile-menu a, .mobile-menu-container > .mobile-nav p {
+    color: var(--font-heading-color-inverted);
+  }
+  
+  .mobile-menu-container > .mobile-nav button {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #dropdown-flex {
+    z-index: 2;
+  }
+  

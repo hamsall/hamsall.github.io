@@ -1,0 +1,60 @@
+// Landing Page Component
+
+section {
+    display: flex;
+    height: 100%;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    background: none;
+    margin: auto;
+
+    >img {
+        
+        width: 125px;
+        margin: 100px auto 25px;
+    }
+
+    ul {
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+
+        li {
+            margin: 0 auto;
+            align-self: center;
+
+            img {
+                width: 50px;
+            }
+        }
+    }
+
+    div {
+        position: relative;
+        display: flex;
+
+        >a {
+            margin: 0 auto;
+            text-decoration: none;
+            color: var(--font-heading-color);
+        }
+
+        a:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0%;
+            border-bottom: 2px solid var(--font-heading-color);
+            transition: 0.4s;
+          }
+          
+          a:hover:after {
+            width: 100%;
+          }
+    }
+}
+

@@ -1,0 +1,39 @@
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap');
+
+// imported sass files
+@import 'landing';
+
+:root {
+  --font-primary: "Montserrat", sans-serif;
+  --text-base-size: 20px;
+  --font-heading-color: #fff;
+  --font-heading-color-inverted: #7e7e7e;
+  --font-secondary-color: #b6b6b6;
+  --font-link-color: #59a2f6;
+  --font-linkedin-link-color: #0a64c0;
+  --margin-bottom: 20px;
+  --fade-b-to-w : linear-gradient(to bottom, rgba(6,6,6,0), rgba(6,6,6, 1));
+  --fade-center : radial-gradient(#0f0f0f, rgba(6,6,6,.5));
+  --background : #0f0f0f;
+  --max-box-width: 800px;
+  --max-title-width: 900px;
+}
+
+html,body {
+  height: 100%;
+}
+
+html {
+  font-size: var(--text-base-size);
+}
+
+body {
+  background: var(--background);
+  font-family: var(--font-primary);
+  font-weight: 400;
+  overflow-x: hidden;
+  color: var(--font-heading-color);
+  height: 100%;
+}
+

@@ -1,0 +1,44 @@
+/* regular classList */
+/* navigation classes */
+nav {
+    position: fixed;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    padding-bottom: 1em;
+    background-image: var(--fade-b-to-w);
+    z-index: 2;
+  }
+  
+  nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    width: 60vw;
+    padding: 0;
+  }
+  
+  nav li {
+    flex: 1;
+    text-align: center;
+  }
+  
+  nav li:nth-child(2) {
+    height: 2.5rem;
+    width: 2.5rem;
+    background-image: url(./assets/sh-logo-400x400.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+  
+  }
+  
+  /* nav li:nth-child(3) > a {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative
+  } */
+  
+  /* combined as these are in same position*/

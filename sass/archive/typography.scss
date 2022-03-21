@@ -1,0 +1,72 @@
+/* typography */
+h1, h2, p, li, nav a{
+    color: var(--font-heading-color);
+    text-decoration-line: none;
+    text-decoration-style: none;
+    font-size: var(--text-base-size);
+    font-family: var(--font-primary)
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin: 0rem 0 5rem;
+    font-weight: 600;
+    /* background: var(--background); */
+    max-width: var(--max-title-width);
+    text-transform: uppercase;
+    color: rgba(255,255,255);
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  p {
+    margin: .5rem 0;
+    background: var(--background);
+    line-height: 1.5rem;
+    max-width: var(--max-box-width);
+  }
+  
+  a{
+    text-decoration: none;
+    color: var(--font-link-color);
+    position: relative;
+  }
+  
+  #linkedin {
+    color: var(--font-linkedin-link-color);
+  }
+  
+  
+  
+  /* animated underline from https://www.cssportal.com/blog/css-animated-underline-links/ */
+  
+  a:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    border-bottom: 2px solid var(--font-link-color);
+    transition: 0.4s;
+  }
+  
+  a:hover:after {
+    width: 100%;
+  }
+  
+  #linkedin:after {
+    border-color: var(--font-linkedin-link-color);
+  }
+  
+  nav a:after {
+    border-color: var(--font-heading-color);
+  }
+  
+  .mobile-menu a:after {
+    border-color: var(--font-heading-color-inverted);
+  }
+  button p, .no-bg, .work-card p {
+    background: none;
+  }

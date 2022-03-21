@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap");
+section {
+  display: flex;
+  height: 100%;
+}
+article {
+  display: flex;
+  flex-direction: column;
+  background: none;
+  margin: auto;
+}
+article > img {
+  width: 125px;
+  margin: 100px auto 25px;
+}
+article ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+article ul li {
+  margin: 0 auto;
+  align-self: center;
+}
+article ul li img {
+  width: 50px;
+}
+article div {
+  position: relative;
+  display: flex;
+}
+article div > a {
+  margin: 0 auto;
+  text-decoration: none;
+  color: var(--font-heading-color);
+}
+article div a:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid var(--font-heading-color);
+  transition: 0.4s;
+}
+article div a:hover:after {
+  width: 100%;
+}
+:root {
+  --font-primary: "Montserrat", sans-serif;
+  --text-base-size: 20px;
+  --font-heading-color: #fff;
+  --font-heading-color-inverted: #7e7e7e;
+  --font-secondary-color: #b6b6b6;
+  --font-link-color: #59a2f6;
+  --font-linkedin-link-color: #0a64c0;
+  --margin-bottom: 20px;
+  --fade-b-to-w: linear-gradient(to bottom, rgba(6,6,6,0), rgba(6,6,6, 1));
+  --fade-center: radial-gradient(#0f0f0f, rgba(6,6,6,.5));
+  --background: #0f0f0f;
+  --max-box-width: 800px;
+  --max-title-width: 900px;
+}
+html, body {
+  height: 100%;
+}
+html {
+  font-size: var(--text-base-size);
+}
+body {
+  background: var(--background);
+  font-family: var(--font-primary);
+  font-weight: 400;
+  overflow-x: hidden;
+  color: var(--font-heading-color);
+  height: 100%;
+}
+/*# sourceMappingURL=index.7dc2c775.css.map */
