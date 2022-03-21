@@ -1,0 +1,2 @@
+var canvas;let speed,stars=[];function windowResized(){resizeCanvas(windowWidth,windowHeight)}function setup(){(canvas=createCanvas(windowWidth,windowHeight)).position(0,0),canvas.style("z-index","-1");for(let t=0;t<800;t++)stars[t]=new Star}function draw(){speed=1,background("rgba(20,20,20,.1)"),translate(width/2,height/2);for(let t=0;t<stars.length;t++)stars[t].update(),stars[t].show()}
+//# sourceMappingURL=index.3689495f.js.map
