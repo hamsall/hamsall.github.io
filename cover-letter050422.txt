@@ -1,0 +1,320 @@
+--------------------------
+
+Sam Hall's Cover Letter
+
+--------------------------
+
+
+Intro
+--------
+
+Hi, I'm Sam. I'm a product designer with a focus on designing systems through research.
+
+I think good research that can be used by everyone is the best way to build empathy. 
+
+This is the key to ethical, accessible, compassionate design. 
+
+So we'll cover around 8 years of project experience.
+
+
+Uni (3 years)
+------------------
+
+So my design story starts at the University of Sydney.
+
+I had no idea what I wanted to do, and my mate took me to the university fair.
+
+So we caught the train from Newie to Sydney and I met Rob, our then head of design.
+
+He did a presentation on game design, and I was hooked.
+
+Over the next three years, I fell in love with product design in general. It just seems like a great way to solve big problems.
+
+So I thought, this design thing must have something to it. 
+
+
+During my time at university, I learned to:
+------------------------------------------------------------
+
+-Design through research: mostly the double diamond framework.
+
+-Design and user-test responsive web interfaces and app interfaces.
+
+-Create prototypes at various fidelity levels using tools like Figma, Sketch, In-Vision, HTML/CSS/JS, etc.
+
+-Can iterate with low-fidelity sketches of workflows and translate those into beautiful, high-fidelity screen designs
+
+-Experience working in a "Build, Test, Learn" team environment. Even in tight timelines with students from across our cohort,
+
+
+Accenture > University
+--------------------------------
+
+My mates and I got a product design award for NurseConnect.
+
+A concept design using emotional recognition technology for nurses going through the trauma involved in their work.
+
+VAD nurses operate in a space between intensive care and hospice. A really tough space
+
+We worked with the VAD association of Australia to pilot a concept with VAD nurses. 
+
+It was eventually integrated into ongoing PhD work in health design. 
+
+Off the back of university, I found a spot at Accenture Technology.
+
+
+Accenture (1 year)
+---------
+
+I worked at Accenture as a tech consultant. 
+
+Our job was to build systems with teams and find big solutions to big problems.
+
+The key difference between consultants and product designers is less focus on development tools like Figma Sketch and Invision HTML/CSS/JS and more focus on systems design and stakeholder management. 
+
+I compared it to the difference between Sheldon and Leonard's jobs after the big bang.Sheldon is consulting, and Leonard is designing. 
+
+
+It was here I learnt: 
+--------------------------
+
+-Strong understanding and practise of design thinking and Agile methodologies in a business space
+
+-Experience of working within Scrum teams and against a backlog Sometimes, the infinite backlog
+
+    
+
+I wanted to earn my stripes in the world of consulting. 
+
+I flew through some crazy shock trooper projects in telcos, finance, and energy, which was a wild ride and I was really thankful that I wasn't on the beach for too long. When I was, it was good fun training and adventuring with colleagues.
+
+I really enjoy working with ASX 100 companies and seeing systems design in action. Seeing as the custodians of the transition from waterfall to agile as technologies allow systems to move forward,
+
+We handcrafted tech support tutorials, did design thinking workshops, and made big, expensive technical diagrams. 
+
+It felt very special to have a hand in creating these artefacts that would affect and hopefully improve the lives of so many people.
+
+I mean, we pay the rent, help each other, and have a good time.
+
+There are really amazing people who stay up for 23 hours a day to sing jazz at a photocopier with grads like me. But that's more of a pub story.
+
+Accenture, and especially my boss, Ruvinda, taught me some things about being a leader and some things about being a follower. 
+
+You lead by example, and you follow by doing your best to emulate the example.
+
+
+Library Learning Design is a service provided by Accenture.
+------------------------------
+
+We finished off a big project in energy, and this promotion came up out of the blue in the education space.
+
+I mentioned I was interested in research to Ruvinda and got his blessing to work and research at the University of Sydney. But he made sure I was certain because it was a big move out of consulting.
+
+I couldn't pass up the opportunity to learn more about how I see design, and I wanted to pick up my technical skills again.
+
+
+Library Learning Design (18 months)
+------------------------------------
+
+So I went to work in my second product design role in the library. 
+
+We specialised in education products, particularly around big system wayfinding and events. 
+
+There was a big push to use design as a way to frame events as a form of service design, and we did escape rooms and did workshops and video and stuff. 
+
+It felt great to flex those skills like storywriting, animation, and presenting. But there were a lot of technical design projects as well, with Adobe Sketch and Figma. 
+
+A little bit of HTML, CSS, and JavaScript when we needed something bespoke.
+
+We also created an EMS (education management system) design system in canvas.
+
+
+Library > Sole Trading and Research
+-------------------------------------
+
+Then, after my first 12 months, I got a research opportunity. 
+
+This was in the educational design AI space. 
+
+We were at the ground level building those training data sets, so no algos, but there was a little Python training at Accenture through the udacity-Google partnership, which was wild. 
+
+
+Sole Trading and Research
+---------------------------
+
+So I did a one-year honours dissertation in educational design systems for language learning—specifically a creative coding javascript library called p5.
+
+I learnt that whenever we make a product, we're essentially teaching someone a new language. 
+
+It can be written.
+
+It can be drawn with coloured boxes and codes.
+
+It's all notation using symbols.
+
+When teaching someone a skill, you're teaching the language of that skill. 
+
+I'll use rowing as an example.
+
+When you learn to row, you learn a few technical things about sweep and scull catch and how to finish stern and bow. 
+
+But most of the training is body language and you learn mental games to push yourself during endurance and power exercises. 
+
+Coding, on the other hand, is a more technical language, but there is a mental game. 
+
+There's a really steep learning curve to climb. 
+
+The best way to do it is to do a little every day.
+
+Our job was to provide the best tools and the best climbing gear that we could.
+
+The honours dissertation paper was a discussion of heurisitics for tools and frameworks through which one learns to code.
+
+Teaching was a big part of the research and something I'd been doing before and after Accenture because we were doing research through design. 
+
+This meant we had to build, test, and learn from the teaching product in tandem with researching it.
+
+The results were promising. 
+
+The independent marking results came back and we managed to gain a standard deviation of students moving from credit and below into distinction and above. 
+
+My colleagues who continue teaching the course tell me that the trend is continuing as they refine the product. 
+
+While I was researching and teaching, I wanted something to ground me in product design, so I started a design company for a while. 
+
+I had two clients with two internal products.
+
+One was a bespoke CMS for the graduation show during the pandemic [7].
+
+A B2B financial product that leverages big data to provide mass behavioural insights. 
+
+focused on a harmony of data security, data ownership through pay for data initiatives, and personalised financial experiences. [8]
+
+
+In sole trading and research, I've learnt:
+-------------------------------------------
+
+Research through Design: a model emphasising the design artefact as the right thing as an artefact for research. [6]
+
+A proactive and independent nature with a strong ability to work well in teams.
+
+The ability to hit the ground running
+
+Experience in the financial industry
+
+Resilience when faced with challenges and the ability to pivot, problem solve, and seek out alternate opportunities.
+
+comfortable with ambiguity.
+
+an understanding and passion for building design capability from the ground up in an established, medium-to-large-sized organization. 
+
+design recruiter and ran the hiring process, taking on an unofficial role as design manager. It was challenging to juggle that and research, but I stuck. I under promised, over delivered, just like I was taught by Rahul, this killer business coach at Accenture. ([3] 
+
+I learnt about discussing and making my own service contracts and design briefs for key product milestones. I've loved learning about what makes products work in fin-tech and in education, where you've got to translate design artefacts into economic positives, whether that be with financial or educational metrics, which, with the current technological opportunities open to all companies, not only from open source but from the RESTful API DL [1] explosion over the last decade, is a really satisfying job to do.
+
+They follow guidelines kind of like WCAG for accessibility but more conceptual. [2]
+
+
+ServiceNSW > Sole trader
+--------------------------
+
+I wanted to bring what I'd learnt as a sole trader and researcher back into big teams like Accenture. 
+
+There was an opportunity for a product design role that focuses on applied research in government design at ServiceNSW.
+
+It seemed like a great fit. 
+
+Jumping into ServiceNSW has been amazing. 
+
+I've learnt so much about people collectively and constructively sharing opinions all at once and across multiple projects and multiple teams.
+
+At Accenture, I listened and learnt from the experts, but as a ServiceNSW designer, I took on a role as a research expert and learnt more about applying this to design systems. 
+
+Patience is an important part of this role.
+
+There are a lot of considerations in government design, and our job is not to make money. 
+
+It's our job to advocate for the customer while mitigating the risk of system failure that is present in all systems, but more so in bigger products like the front end of NSW data. 
+
+Everyone in NSW is your target user, so we need to make sure our research is as inclusive as possible.
+
+At ServiceNSW, I've learnt a really core skill: 
+----------------------------------------------
+
+collaborating with developers and content producers to implement designs and user-centred functionality.
+
+And collectively, I've worked across three existing tech companies in the past five years. I feel very lucky to have designed across so many different industries to get a sense of what makes product design work in tech. 
+
+Knowledge of WCAG Accessibility standards has been extremely beneficial in terms of inclusive design in accordance with legislation and a professional responsibility for the customer experience.
+
+
+
+
+A portfolio piece.
+-----------------
+
+So I wanted to run through a portfolio piece [9] that demonstrates high-quality design outcomes while contributing to the user experience and business value. I'll break this into a STAR format [10]. 
+
+Situation
+---------
+
+We're uplifting an existing product to become an existing service with a new design system and technical migration. 
+
+The product was toll relief and the service was renewed. 
+
+So if you've spent a certain number of tolls in NSW, you get a discount when you renew your vehicle registration.
+
+Task
+----
+
+Discovery, which is the first quarter of the design process in a double diamond framework,
+
+Like Agile, it's a fractal method, so there are double diamonds within double diamonds, but at a high level, we focused on discovery research. 
+
+We were challenged in our progression because of the need to navigate political blockers' updates to business service contracts and, in some cases, legislation.
+
+Action
+------
+
+In this case, we used a method called thematic analysis to codify a big dataset of around 2000 fragments, which in this case were customer quotes.
+
+Result 
+------
+
+A strategic design roadmap that catered for political blockers, business blockers, and found what low-hanging fruit we could use to maintain the customer experience during technical and design migration while planning for the future.
+
+Our tests were successful on our first run, and that's rare in big products. Hick's law states that "the time it takes to make a decision increases with the number and complexity of choices." [5]:
+
+Renew rego is really quite a complex product. 
+
+We were successful for three main reasons:
+
+1. The priority matrix that came out of research.
+
+2. A UI-focused team to leverage and contribute to our new design system while maintaining compatibility with the old.
+
+3. Engage in open dialogue with SMEs and developers about what we found desirable and what they found feasible and reliable.
+
+---------
+References
+---------
+
+[1] RESTful (representational state transfer) architectureAPI (application programming language) DL (description language) is a formal language for learning how to code. How to code APIs well] | https://en.wikipedia.org/wiki/Overview_of_RESTful_API_Description_Languages
+
+[2] REST API Fundamentals | https://www.ibm.com/cloud/learn/rest-apis
+
+[3] Agile Principles | www.educba.com/agile-principles/
+
+[5] Hicks' Law | https://lawsofux.com/hicks-law/
+
+[6] Design Research | https://arl.human.cornell.edu/879Readings/Design%20Research.pdf
+
+[7] Current Gradshow Site Iteration | https://adpgradshow.com/
+
+[8] Hunter and Bligh | www.hunterandbligh.com.au/
+
+[9] Portfolio | https://hamsall.github.io/design-blog/toll-relief-SNSW/
+
+[10] Infographic in the Star Format | https://careersblog.enterprise.co.uk/wp-content/uploads/2014/11/STAR_Facebook.png
+
+
