@@ -1,0 +1,192 @@
+                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⡒⢄⢀⠇⣇⡠⢔⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⠹⡍⠉⠒⠒⠵⠄⠹⠀⠉⠀⠘⠒⠒⠒⠒⠒⠦⣤⡀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⣀⡠⠬⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠮⢄⠀⠀⠀⠀⠀
+                        ⠀⠀⣴⡚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠢⣀⠀⠀
+                        ⠀⠀⠀⢈⡕⠀⠀⠀⢀⠀⠀⣀⣤⣤⣤⣤⣤⣄⣄⠀⢠⠀⠀⠀⠀⠀⠀⢞⠓⠀
+                        ⠀⣠⡒⠁⣠⠆⢀⣤⡞⣠⠊⠉⠉⢀⡤⣤⠄⠈⠉⠑⣼⣷⣀⢰⡄⠀⠘⡟⠆⠀
+                        ⠀⠀⢉⣟⣡⣾⣿⣿⡟⠁⠀⠀⢠⣾⣘⣋⠇⠀⠀⠀⠈⢻⣿⣦⣻⣦⣀⢸⠀⠀
+                        ⠀⠐⢫⢇⣿⣿⣿⣿⣿⣴⣶⠾⠟⠛⠛⠛⠛⣻⠶⣶⣶⣿⣿⣿⣿⣿⠘⡷⡇⠀
+                        ⠀⠰⠛⠉⢿⡿⣿⠛⠉⠁⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⢻⢻⡿⣿⠔⠃⠀⠀
+                        ⠀⠀⠀⠀⡎⠘⢾⠀⣠⠴⠤⢄⠀⠀⠀⠀⠀⠠⠒⠒⠢⠀⢸⠎⠀⢸⠀⠀⠀⠀
+                        ⠀⠀⢀⣀⡇⠀⠘⣄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡼⢀⣠⠟⠀⠀⠀⠀
+                        ⠀⠀⢋⠀⠈⢷⣦⣽⣦⣀⣀⠀⠀⢈⠉⠉⡡⠀⠀⡠⡢⠽⢿⡿⣿⣷⡀⠀⠀⠀
+                        ⠀⠀⢀⡇⠀⢸⠟⠉⡩⠋⠀⠉⢹⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠈⡝⠉⠀⠀⠀
+                        ⠀⠀⡇⠀⠀⠚⢄⢸⠁⠀⠀⠀⠈⣿⣿⡗⣿⣿⣿⡇⠀⠀⠀⠀⠀⢧⠀⠀⠀⠀
+                        ⠀⢸⠀⠀⠀⠀⣞⡎⠀⠀⠀⠀⠀⣿⣿⡇⢿⣿⣿⡇⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀
+                        ⠀⢺⡀⠀⢀⠎⡜⠘⠊⠖⠲⠒⠲⠋⠛⠛⠚⠉⠉⠙⠉⠑⠉⠒⠋⠀⠀⠀⠀⠀
+                        ⠀⠀⠙⠲⠖⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+███ █┼█ ███ █┼┼ █┼┼ ███ ███ ███ ███ ┼┼ ███ █┼┼█ ██▄ ┼┼ █▄┼▄█ ███ ███ ███ █▄█ ███ ███ ███ ███ █┼┼█ ███
+█▄▄ ██▄ ┼█┼ █┼┼ █┼┼ █▄▄ █▄┼ ┼█┼ █▄▄ ┼┼ █▄█ ██▄█ █┼█ ┼┼ █┼█┼█ █┼█ ┼█┼ ┼█┼ ███ █▄█ ┼█┼ ┼█┼ █┼█ ██▄█ █▄▄
+▄▄█ █┼█ ▄█▄ █▄█ █▄█ ▄▄█ █▄▄ ┼█┼ ▄▄█ ┼┼ █┼█ █┼██ ███ ┼┼ █┼┼┼█ █▄█ ┼█┼ ▄█▄ ┼█┼ █┼█ ┼█┼ ▄█▄ █▄█ █┼██ ▄▄█
+
+
+What are my motivations?
+------------------------
+
+    Simple Version
+
+        1. Contribute desireable, feasible and reliable design artefacts and strategy to the vision of the Frontend experience
+
+        2. Be a key driver in a companies design system for their products
+
+        3. Feature iteration through one week design sprints 
+
+        4. Access to Mental Health, specifically Youth Mental Health services for all Australians
+
+    Detailed Version
+
+        1. Contribute desireable, feasible and reliable design artefacts and strategy to the vision of the Frontend experience
+            Unpacking User Feedback
+            Reframing customer and business objectives through user interface mockups
+
+        2. Be a key driver in a companies design system for their products
+            Present design decisions through tangible research that's communicated effectively (personas)
+
+        3. Feature iteration through one week design sprints 
+            One week from concept to validated designs is the aim.
+                https://jakeknapp.com/sprint | Jake's Landing Page
+                https://paulminors.com/blog/sprint-jake-knapp-book-summary-pdf/ | Paul Minor's review
+
+        4. Access to Mental Health, specifically Youth Mental Health services for all Australians
+            In a developed country like Australia, this seems like the fulcrum to tackle the world's toughest problems. 
+            If we all get the opportunity to be our best selves, we can forge a brighter future.
+
+What are my skillsets?
+----------------------
+
+    Simple Version
+
+        1. Coding 
+            
+        2. Teaching
+        
+        3. Double Diamond Design
+        
+        4. User testing
+        
+        5. Desk Research
+        
+        6. User Interface Design
+
+        7. Design Systems and Brand Stories
+
+        8. Workshops
+        
+        9. Presentation and Pitching
+
+    Detailed Version
+
+        1. Coding 
+            meme generator - built for funsies.
+            built my blog and website from using JS libraries and webpack for better user experience
+            p5.js - wrote a how to for a programming class
+
+        2. Teaching
+            I teaching students about
+                doing user research
+                making personas
+                UI sketching, wireframes and mockups
+                writing functional specification lists and roadmaps 
+                doing usability testing
+                developing their designs as functional prototypes using HTML, CSS and JavaScript
+            Software
+                codepen, visual studio code, github, repl.it
+
+        3. Double Diamond Design
+            discovery
+                researching a space to find out what we know 
+                reveal things we didn't think the ask
+            definition
+                refine the problem statement and success metrics (business objectives)
+                do this using technical, business and user constraints 
+            develop
+                create sketches, wireframes and mockups that solve the problem statement
+            deliver
+                conduct usability with prototypes of various fidelities 
+                decide on the prototypes that balance feasibility, reliability and desireability
+                deliver these to developers with user stories and design artefacts
+
+        4. User testing
+            establishing learning goals
+                reframe assumptions about the user experience in a way that reveals what users actually want
+            setting up questions 
+                get valuable data from users 
+                limit complexity
+                maintain engagement
+                don't let answers get clouded by negative mindsets
+            a/b testing
+                for prototype testing, have simple comparisons between designs to get clear answers from users
+            card sorting
+                for conceptual testing, create heirarchies of ideas with users to establish priorities for user experience and better understand how users percieve the concept and language involved with a product.
+            Software
+                askable, dovetail, usertesting, userzoom, lookback
+
+        5. Desk Research
+            Thematic analysis 
+                for large amounts of qualitative data, find themes to provide direction at a strategic level.
+            Statistical ethnography
+                use statistical data and laws of behavioural economics to frame assumptions around a product
+            Personas
+                use hypothetical archetypes to drive conversation around the desireability of functionality.
+                combine multiple personas to understand broad desires for what products should be 
+                    use this understanding to inform product strategy and service design.
+
+        6. User Interface Design
+
+            Working within existing design systems to provide users 
+                desireable functionality that is quick to build 
+                easy to maintain.
+            Pixel Perfect Design
+                using symbols and systems to automate detail management as much as possible 
+                in times where that's not possible, doing the grind to make things pixel perfect for engineers.
+                from experince, the clearer the design vision, the easier it is to code.
+                UI design is like comedy. if you need to explain it, it doesn't work.
+            Bend, break and recreate the product rules when we need to. 
+                bring things back to the laws of UX 
+                    e.g. Aesthetic-usability effect, Doherty threshold, Pareto Principle, Occam's Razor, Golden Ratio
+                consider the effect of design patterns on user experience based on best practice
+                    e.g. typography, colour theory, objects in space (2 or 3 dimensional space cartesian space, objects in hyperbolic space)
+            Software: Figma, Sketch, Abstract, Adobe Suite
+
+        7. Design Systems and Brand Stories
+
+            knowledge articles and design pattern specs for everyone across the team to quickly access and include existing patterns in their work.
+            basing systems on brand stories.
+            establishing typography and colour systems that reflect core values of a brand story.
+            using hypothetical archetypes like a community of personas to build brand stories.
+            establishing processes that make contribution to design systems simple for designers and developers.
+            creating templates for additions that capture the research leading to design choices and decisions.
+                
+        8. Workshops
+            Facilation
+                Planning timed activities  
+                everyones ideas into a format to define what success looks like and drive improvement in a defined scope.
+            Software 
+                Miro (online white-board)
+
+
+        9. Presentation and Pitching
+            Animation
+                add depth and visual artefacts for storytelling to make meaning and ideas more accessible.
+            Software
+                Adobe Suite (premiere, rush, illustrator) 
+            Script Writing and Pitch Deck Building
+                Refine what you're saying beforehand to provide an audience with a clear vision around the topics of discussion.
+
+
+    Passions
+    --------
+
+        I write fiction; mostly scifi.
+            built a blog my short stories and music lyrics
+        
+        I write music
+            built a blog on medium with my lyrics 
+            nfts for purchase potential
+            bandlab for collaboration
+            soundcloud for distribution
+
+
+    
